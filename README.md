@@ -7,7 +7,7 @@
     - It calculates the expected return (mean) and risk (standard deviation) of each stock, plots them on a Cartesian plane, and calculates their correlations to find the most efficient combinations of those stocks."
     ![alt text](image.png)
 
-- research_2.ipynb Stock Price Forecasting Using Machine Learning
+### research_2.ipynb Stock Price Forecasting Using Machine Learning
 ==============================================
 
 This project builds a multi-model machine learning pipeline for forecasting stock prices of major Indian companies using historical market data, technical indicators, and ensemble learning techniques.
@@ -219,7 +219,7 @@ Possible extensions include:
 -   Real-time streaming prediction systems
 -   Hyperparameter optimization using Bayesian tuning
     
-- research_3.ipynb Quantitative Analysis of Maritime Defense Companies Around Chokepoint Disruptions
+### research_3.ipynb Quantitative Analysis of Maritime Defense Companies Around Chokepoint Disruptions
 =================================================================================
     
 
