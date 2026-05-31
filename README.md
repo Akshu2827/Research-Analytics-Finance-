@@ -223,6 +223,7 @@ Possible extensions include:
 =================================================================================
 
 ![alt text](image-1.png)
+![alt text](image-2.png)
 
 This project performs a quantitative event study on global maritime defense and shipbuilding companies to analyze how geopolitical chokepoint disruptions impact stock market performance and financial stability. The analysis combines abnormal return modeling with corporate financial health metrics and correlation analysis.
 
