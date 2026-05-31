@@ -221,7 +221,8 @@ Possible extensions include:
     
 ### research_3.ipynb Quantitative Analysis of Maritime Defense Companies Around Chokepoint Disruptions
 =================================================================================
-    
+
+![alt text](image-1.png)
 
 This project performs a quantitative event study on global maritime defense and shipbuilding companies to analyze how geopolitical chokepoint disruptions impact stock market performance and financial stability. The analysis combines abnormal return modeling with corporate financial health metrics and correlation analysis.
 
